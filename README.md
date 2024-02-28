@@ -64,8 +64,8 @@ Contributions are welcome!
 If you have any questions, suggestions, or just want to chat about this project, feel free to reach out:
 
 - **Email:** hhaeri0911@gmail.com
-- **GitHub Issues:** [Project Issues](https://github.com/your-username/dml-coupon-campaign/issues)
-
+- **GitHub Issues:** [Project Issues](https://github.com/hhaeri/Causal-Machine-Learning-for-Coupon-Campaign-Optimization/issues)
+  
 Your feedback is highly appreciated!
 
 
