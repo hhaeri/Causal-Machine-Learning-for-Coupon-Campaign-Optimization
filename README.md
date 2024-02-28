@@ -40,8 +40,8 @@ pip install -r requirements.txt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/dml-coupon-campaign.git
-   cd dml-coupon-campaign
+   git clone https://github.com/hhaeri/Causal-Machine-Learning-for-Coupon-Campaign-Optimization.git
+   cd Causal-Machine-Learning-for-Coupon-Campaign-Optimization
    ```
 2. Run the main script:
    ```bash
